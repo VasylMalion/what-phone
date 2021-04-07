@@ -1,0 +1,34 @@
+.card-img {
+    padding: 5px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+}
+
+.card-main {
+    padding: 5px;
+    width: 16rem;
+    display: flex;
+    justify-content: center;
+    align-self: b;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.card-star, .card-star:hover {
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.card-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card-add {
+    color: #e5ed1e;
+}
+
+.card-info, .card-info:hover {
+    color: white;
+}

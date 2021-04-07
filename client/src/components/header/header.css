@@ -1,0 +1,30 @@
+.header-link {
+    font-size: 16px;
+    text-decoration: none;
+    color: #28a745;
+}
+
+.header-link:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.header-link-main {
+    text-decoration: none;
+    color: #181819;
+}
+
+.header-link-main:hover {
+    text-decoration: none;
+    color: #181819;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.change-lang {
+    display: flex;
+    cursor: pointer;
+    width: 105px
+}

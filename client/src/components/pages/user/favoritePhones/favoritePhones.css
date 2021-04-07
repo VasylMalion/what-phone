@@ -1,0 +1,28 @@
+.card-img {
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+.card-main2 {
+    padding: 5px;
+    margin-bottom: 10px;
+    width: 14rem;
+    display: flex;
+    justify-content: center;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.card-star {
+    font-size: 30px;
+}
+
+.card-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card-add {
+    color: #e5ed1e;
+}
